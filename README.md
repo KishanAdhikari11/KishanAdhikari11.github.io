@@ -5,9 +5,7 @@ I'm **Kishan Adhikari**, a passionate **Computer Engineering student** with skil
 
 ---
 
-## 🌐 **Live Portfolio**  
-Check out my portfolio website hosted on GitHub Pages:  
-👉 **[Kishan Adhikari Portfolio](https://kishanadhikari11.github.io)**
+
 
 ---
 
